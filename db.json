@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Alex Black",
+      "number": "222-36-59",
+      "id": 1
+    },
+    {
+      "name": "Нова Пошта",
+      "number": "000000",
+      "id": 2
+    },
+    {
+      "name": "Lesya",
+      "number": "222-36-66",
+      "id": 3
+    }
+  ]
+}
